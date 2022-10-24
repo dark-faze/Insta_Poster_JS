@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "imap-simple": "^5.1.0",
+    "instagram-web-api": "^2.2.2",
+    "is-url": "^1.2.4",
+    "lodash": "^4.17.21",
+    "mailparser": "^3.5.0",
+    "node-cron": "^3.0.2",
+    "request-promise-native": "^1.0.9",
+    "tough-cookie": "^4.1.2",
+    "useragent-from-seed": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
